@@ -1,1 +1,1 @@
-This is a GIT repo for my ALEvel Computer Science work
+This is a GIT repo for my A Level Computer Science work

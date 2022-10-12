@@ -1,0 +1,14 @@
+C:\Users\ejt.2204832\OneDrive - Hereford Sixth Form College\Documents\Computer Science\Component 2 (Coding)\CodingChallenge\CodingChallenge\bin\Debug\netcoreapp3.1\CodingChallenge.exe
+C:\Users\ejt.2204832\OneDrive - Hereford Sixth Form College\Documents\Computer Science\Component 2 (Coding)\CodingChallenge\CodingChallenge\bin\Debug\netcoreapp3.1\CodingChallenge.deps.json
+C:\Users\ejt.2204832\OneDrive - Hereford Sixth Form College\Documents\Computer Science\Component 2 (Coding)\CodingChallenge\CodingChallenge\bin\Debug\netcoreapp3.1\CodingChallenge.runtimeconfig.json
+C:\Users\ejt.2204832\OneDrive - Hereford Sixth Form College\Documents\Computer Science\Component 2 (Coding)\CodingChallenge\CodingChallenge\bin\Debug\netcoreapp3.1\CodingChallenge.runtimeconfig.dev.json
+C:\Users\ejt.2204832\OneDrive - Hereford Sixth Form College\Documents\Computer Science\Component 2 (Coding)\CodingChallenge\CodingChallenge\bin\Debug\netcoreapp3.1\CodingChallenge.dll
+C:\Users\ejt.2204832\OneDrive - Hereford Sixth Form College\Documents\Computer Science\Component 2 (Coding)\CodingChallenge\CodingChallenge\bin\Debug\netcoreapp3.1\CodingChallenge.pdb
+C:\Users\ejt.2204832\OneDrive - Hereford Sixth Form College\Documents\Computer Science\Component 2 (Coding)\CodingChallenge\CodingChallenge\obj\Debug\netcoreapp3.1\CodingChallenge.csproj.AssemblyReference.cache
+C:\Users\ejt.2204832\OneDrive - Hereford Sixth Form College\Documents\Computer Science\Component 2 (Coding)\CodingChallenge\CodingChallenge\obj\Debug\netcoreapp3.1\CodingChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ejt.2204832\OneDrive - Hereford Sixth Form College\Documents\Computer Science\Component 2 (Coding)\CodingChallenge\CodingChallenge\obj\Debug\netcoreapp3.1\CodingChallenge.AssemblyInfoInputs.cache
+C:\Users\ejt.2204832\OneDrive - Hereford Sixth Form College\Documents\Computer Science\Component 2 (Coding)\CodingChallenge\CodingChallenge\obj\Debug\netcoreapp3.1\CodingChallenge.AssemblyInfo.cs
+C:\Users\ejt.2204832\OneDrive - Hereford Sixth Form College\Documents\Computer Science\Component 2 (Coding)\CodingChallenge\CodingChallenge\obj\Debug\netcoreapp3.1\CodingChallenge.csproj.CoreCompileInputs.cache
+C:\Users\ejt.2204832\OneDrive - Hereford Sixth Form College\Documents\Computer Science\Component 2 (Coding)\CodingChallenge\CodingChallenge\obj\Debug\netcoreapp3.1\CodingChallenge.dll
+C:\Users\ejt.2204832\OneDrive - Hereford Sixth Form College\Documents\Computer Science\Component 2 (Coding)\CodingChallenge\CodingChallenge\obj\Debug\netcoreapp3.1\CodingChallenge.pdb
+C:\Users\ejt.2204832\OneDrive - Hereford Sixth Form College\Documents\Computer Science\Component 2 (Coding)\CodingChallenge\CodingChallenge\obj\Debug\netcoreapp3.1\CodingChallenge.genruntimeconfig.cache

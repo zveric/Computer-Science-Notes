@@ -1,0 +1,14 @@
+C:\Users\Eric\OneDrive - Hereford Sixth Form College\Documents\Computer Science\Component 2 (Coding)\IterationHomework\IterationHomework\obj\Debug\netcoreapp3.1\IterationHomework.csproj.AssemblyReference.cache
+C:\Users\Eric\OneDrive - Hereford Sixth Form College\Documents\Computer Science\Component 2 (Coding)\IterationHomework\IterationHomework\obj\Debug\netcoreapp3.1\IterationHomework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eric\OneDrive - Hereford Sixth Form College\Documents\Computer Science\Component 2 (Coding)\IterationHomework\IterationHomework\obj\Debug\netcoreapp3.1\IterationHomework.AssemblyInfoInputs.cache
+C:\Users\Eric\OneDrive - Hereford Sixth Form College\Documents\Computer Science\Component 2 (Coding)\IterationHomework\IterationHomework\obj\Debug\netcoreapp3.1\IterationHomework.AssemblyInfo.cs
+C:\Users\Eric\OneDrive - Hereford Sixth Form College\Documents\Computer Science\Component 2 (Coding)\IterationHomework\IterationHomework\obj\Debug\netcoreapp3.1\IterationHomework.csproj.CoreCompileInputs.cache
+C:\Users\Eric\OneDrive - Hereford Sixth Form College\Documents\Computer Science\Component 2 (Coding)\IterationHomework\IterationHomework\bin\Debug\netcoreapp3.1\IterationHomework.exe
+C:\Users\Eric\OneDrive - Hereford Sixth Form College\Documents\Computer Science\Component 2 (Coding)\IterationHomework\IterationHomework\bin\Debug\netcoreapp3.1\IterationHomework.deps.json
+C:\Users\Eric\OneDrive - Hereford Sixth Form College\Documents\Computer Science\Component 2 (Coding)\IterationHomework\IterationHomework\bin\Debug\netcoreapp3.1\IterationHomework.runtimeconfig.json
+C:\Users\Eric\OneDrive - Hereford Sixth Form College\Documents\Computer Science\Component 2 (Coding)\IterationHomework\IterationHomework\bin\Debug\netcoreapp3.1\IterationHomework.runtimeconfig.dev.json
+C:\Users\Eric\OneDrive - Hereford Sixth Form College\Documents\Computer Science\Component 2 (Coding)\IterationHomework\IterationHomework\bin\Debug\netcoreapp3.1\IterationHomework.dll
+C:\Users\Eric\OneDrive - Hereford Sixth Form College\Documents\Computer Science\Component 2 (Coding)\IterationHomework\IterationHomework\bin\Debug\netcoreapp3.1\IterationHomework.pdb
+C:\Users\Eric\OneDrive - Hereford Sixth Form College\Documents\Computer Science\Component 2 (Coding)\IterationHomework\IterationHomework\obj\Debug\netcoreapp3.1\IterationHomework.dll
+C:\Users\Eric\OneDrive - Hereford Sixth Form College\Documents\Computer Science\Component 2 (Coding)\IterationHomework\IterationHomework\obj\Debug\netcoreapp3.1\IterationHomework.pdb
+C:\Users\Eric\OneDrive - Hereford Sixth Form College\Documents\Computer Science\Component 2 (Coding)\IterationHomework\IterationHomework\obj\Debug\netcoreapp3.1\IterationHomework.genruntimeconfig.cache

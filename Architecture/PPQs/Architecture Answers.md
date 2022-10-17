@@ -1,0 +1,3 @@
+- Single CU
+- Shared memory
+- Follows FDE

@@ -1,6 +1,8 @@
 { pkgs }: {
 	deps = [
-		pkgs.dotnet-sdk
+		pkgs.htop
+  pkgs.iputils
+  pkgs.dotnet-sdk
     pkgs.omnisharp-roslyn
 	];
 }

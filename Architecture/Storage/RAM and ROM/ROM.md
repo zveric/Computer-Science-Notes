@@ -1,0 +1,4 @@
+- Holds BIOS 
+- Non volitile
+- Random Acsses
+- Isnt written to in normal use

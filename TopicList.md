@@ -1,0 +1,11 @@
+- Number types
+- FDE Cycle
+- Storage
+- RAM ROM
+- RISC vs CISC
+- Von Neumann vs Harvard
+- LMC
+- Functions and Procedures
+- Thinking Ahead, Thinking ABSTRACTLY
+- Psudocode
+- Queues and Stacks

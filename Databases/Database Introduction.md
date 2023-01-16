@@ -54,7 +54,7 @@
 - Domain integrity: All attributes in the database are related to the overall domain that the database is working on
 
 ### Data Inderpendence:
-- In realational databases data is seperated meaning that only relevent data is shown
+- In relational databases data is seperated meaning that only relevent data is shown
 
 
 

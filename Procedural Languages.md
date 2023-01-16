@@ -31,3 +31,12 @@
 ## Reserved Words
 - Reserved words are words that cannot be used as an identifier (i.e. the name of a variable, function or label) because they have a special meaning to the compiler.
 - They are also known as keywords, which are a subset of reserved words.
+
+## File Handling
+- Some computer languages combine the 'Open' and 'Create' function so if the file does not exist, it is created.
+- Files can be opened in different access modes. 
+### Each mode allows different tasks to be performed on the open file: 
+- Read only - allows the file to be read but not modified
+- Write only - opens the file for writing into
+- Read-Write (update) - opens the file for both read and write. It may also create the file if it did not exist
+- Append - opens the file for adding to only. Existing data cannot be deleted

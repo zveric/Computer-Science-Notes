@@ -1,3 +1,6 @@
-This is a GIT repo for my A Level Computer Science work
+This is a GIT repository for my A Level Computer Science work.
+Its very messy and sometimes incomplete.
 
-Although i try my best to make sure all work here is my own. I apologize if it isn't. Please contact me if you have any issues.
+I use obsidian to write my notes. I would highly recommend it.
+
+Although i try my best to make sure all work here is my own I do use college resources so i don't hold the copyright to all of this work. 

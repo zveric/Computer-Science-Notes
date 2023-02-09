@@ -1,0 +1,5 @@
+- A basic language that allows basic web pages to be displayed
+
+## Tags
+- A tag is the basic way of denoting the different parts of a website
+- It is done by `<tag>` and `</tag>``

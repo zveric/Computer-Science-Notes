@@ -2,4 +2,4 @@
 
 ## Tags
 - A tag is the basic way of denoting the different parts of a website
-- It is done by `<tag>` and `</tag>``
+- It is done by `<tag>` and `</tag>`

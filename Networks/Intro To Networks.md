@@ -24,3 +24,9 @@
 - They use connections that are owned by the organisation
 - More secure than a WAN
 ## Wide Area Network
+- Covers a large area and connects two or more LANs together
+- LANS are connected to form WANs using different methods These includes:
+	- Fibre Optic Cables
+	- Leased telephone lines
+	- Satellite Communication Links
+	- Microwaves Links

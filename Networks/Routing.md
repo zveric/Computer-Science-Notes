@@ -1,0 +1,7 @@
+- Transmissions will be routed through a number of nodes before a connection is established.  
+- A router will be used to send the data to the appropriate node.
+- It knows where to send the data, as it extracts the address from the header of each packet being sent.
+- Routing will find the fastest path from sender to receiver by forwarding the data to next “best” node in the route.
+- This can be achieved by using a routing table and routing algorithm.
+- The routing table stores information about the different paths along which data can be sent.
+- These tables are constructed in the memory of network components such as routers and gateways.

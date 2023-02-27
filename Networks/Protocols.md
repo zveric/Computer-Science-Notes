@@ -13,3 +13,6 @@
 - This means that is there is an error in a layer it is easier to debug
 - Layers can be upgraded more quickly
 - New protocols can be slotted into the system
+
+![[Pasted image 20230227121040.png]]
+![[Pasted image 20230227121146.png]]

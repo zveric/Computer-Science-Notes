@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f3cde6feb2b411f5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Networks/Protocols.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Networks/Types of Network.md",
+                "file": "Networks/Protocols.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Networks/Types of Network.md",
+                "file": "Networks/Protocols.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Networks/Types of Network.md"
+                "file": "Networks/Protocols.md"
               }
             }
           },
@@ -179,11 +191,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d34e83300afda904",
+  "active": "f3cde6feb2b411f5",
   "lastOpenFiles": [
+    "Networks/Types of Network.md",
+    "Networks/Protocols.md",
     "Networks/Routing.md",
     "Networks/Packet and Circuit Switching.md",
-    "Networks/Types of Network.md",
     "Networks/Network Basics PPQ.pdf",
     "Networks/Intro To Networks.md",
     "Networks/Network Hardware.md",

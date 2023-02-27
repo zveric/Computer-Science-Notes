@@ -1,0 +1,8 @@
+- In order for two computers to communicate they need a set of rules to tell them how to communicate
+- A good protocol should include:
+	- How to setup a connection
+	- How to end a connection
+	- How to start a message 
+	- How to end a message
+	- How to deal with corrupted data 
+	- How to format the data being sent

@@ -19,4 +19,4 @@
 ![[Pasted image 20230227121356.png]]
 
 ### OSI
-All prostitutes seem to need double penetration
+- All prostitutes seem to need double penetration

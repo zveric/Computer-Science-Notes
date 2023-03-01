@@ -47,11 +47,9 @@
             "id": "f3cde6feb2b411f5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Networks/Protocols.md",
-                "mode": "source",
-                "source": false
+                "file": "Networks/Network Basics PPQ Edited.pdf"
               }
             }
           }
@@ -122,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Networks/Protocols.md",
+                "file": "Networks/Network Basics PPQ Edited.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Networks/Protocols.md",
+                "file": "Networks/Network Basics PPQ Edited.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Networks/Protocols.md"
+                "file": "Networks/Network Basics PPQ Edited.pdf"
               }
             }
           },
@@ -193,14 +191,19 @@
   },
   "active": "f3cde6feb2b411f5",
   "lastOpenFiles": [
+    "Networks/Network Protocols PPQ.pdf",
+    "Networks/Network Basics PPQ Edited.pdf",
+    "Networks/Network Basics PPQ.pdf",
+    "Networks/Intro To Networks.md",
+    "Networks/Network Basics PPQ.xopp",
+    "Networks/Protocols.md",
+    "Networks/Network Protocols PPQ.xopp",
     "Networks/Network Protocols PPQ.odg",
     "Networks/lu8187tsq9.tmp",
-    "Networks/Network Protocols PPQ.pdf",
     "Networks/Network Protocols PPQ.pdf.crdownload",
     "Pasted image 20230227121356.png",
     "Networks/Routing.md",
     "Web Technology/HTML Work/Wallace-and-Gromit-2.jpg",
-    "Networks/Protocols.md",
     "Pasted image 20230227121146.png",
     "Pasted image 20230227121040.png",
     "Databases/Database Introduction.md",
@@ -208,8 +211,6 @@
     "Attachments",
     "Networks/Types of Network.md",
     "Networks/Packet and Circuit Switching.md",
-    "Networks/Network Basics PPQ.pdf",
-    "Networks/Intro To Networks.md",
     "Untitled.md",
     "Web Technology/HTML (Hyper Text Markup Language).md",
     "Web Technology/Java Script.md",

@@ -20,3 +20,4 @@
 
 ### OSI
 - All prostitutes seem to need double penetration
+![[Pasted image 20230301123750.png]]

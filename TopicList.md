@@ -1,11 +1,8 @@
-- Number types
-- FDE Cycle
-- Storage
-- RAM ROM
-- RISC vs CISC
-- Von Neumann vs Harvard
-- LMC
-- Functions and Procedures
-- Thinking Ahead, Thinking ABSTRACTLY
-- Psudocode
-- Queues and Stacks
+- Number Types
+- Stacks + Queues
+- Legal
+- Boolean logic
+- Karnehmaps 
+- Algorithms
+- Computational thinking
+- HTML, CSS, Java Script

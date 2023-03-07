@@ -9,9 +9,9 @@
 - Personal data must be held securely. This means that data must be kept safe from unauthorised access - for example, with usernames and passwords - but also safe from accidental loss - by making backups.
 - Personal data must not be transferred to other countries outside the European Economic Area unless those countries have similar data protection laws.
 ### Roles:
-- Information commisioner: The person or office who has powers to enforce the act
+- Information commissioner: The person or office who has powers to enforce the act
 - Data controller: is a person or company that collects and keeps data about people
-- Data subject: The person whos data it is that is being stored
+- Data subject: The person whose data it is that is being stored
 #### Data subjects rights:
 - The right to be informed
 - The right of access
@@ -29,7 +29,7 @@
 - adequate, relevant and limited to what is necessary in relation to the purposes for which it is processed - data cannot be collected that is not relevant to the organisation’s needs
 - accurate and, where necessary, kept up to date - individuals have the right to request that data is changed but it is also the responsibility of the organisation to make sure that the data is correct
 - kept in a format which identifies individuals for no longer than is necessary - data can be kept for longer as long as anything that identifies the individual is removed
-- processed in a manner that ensures appropriate security, including protection against unauthorised or unlawful processing and against accidental loss, destruction or damage, using appropriate technical or organisational measures - in other words, an organisation must take adequate actions to ensure that the data is safe from accidental loss and cyberattacks
+- processed in a manner that ensures appropriate security, including protection against unauthorised or unlawful processing and against accidental loss, destruction or damage, using appropriate technical or organisational measures - in other words, an organisation must take adequate actions to ensure that the data is safe from accidental loss and cyber-attacks
 
 ## Computer missuse act (1990)
 - Unauthorised access to computer material
@@ -38,7 +38,7 @@
 - Making supplying or obtaining anything which can be used in computer misuse offences
 
 ### Issues:
-- It can be had to work out who is responsible espessially if the crime committed is a DDOS
+- It can be had to work out who is responsible especially if the crime committed is a DDOS
 
 ## Copyright designs and patents act (1988)
 - This set of rules helps to prevent plagerism by allowing the original owner to take control over their content.
@@ -46,8 +46,8 @@
   
 
 ## Regulation of investigatory powers act (2000)
-- The EU stated in 1998 that the uks survaillience laws where out of date
-- The act was passed to provide a legal framework for organisations such as the security services and the police to carry out digital surveillance and to access electronic, postal and digital communictions on individuals.
+- The EU stated in 1998 that the uks surveillance laws where out of date
+- The act was passed to provide a legal framework for organisations such as the security services and the police to carry out digital surveillance and to access electronic, postal and digital communications on individuals.
 - It also makes it a crime for anyone who is not authorised under the act to carry out survaillience and monitoring of communications.
 - When the act was orrigianlly passed only 9 organisations were granted permission however in 2008 1000 organisations were given permission.
 

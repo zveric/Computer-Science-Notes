@@ -1,6 +1,6 @@
- RAM stands for Random Acsses Memory
+ RAM stands for Random Access Memory
  - Non sequential
- - Volitile = meaning  that it needs power to store data.
+ - Volatile = meaning  that it needs power to store data.
  - Fairly fast
 ## Types of RAM
 ### SRAM

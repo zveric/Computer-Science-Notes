@@ -5,7 +5,7 @@ Truth tables are used to see all the possible results of a operation
 Shows the logic of a operation through a series of gates 
 
 ### Not gate (¬A, A with hat on)
-Outputs the opersite of the input.
+Outputs the opposite of the input.
 
 ### AND gate (A^B, A.B)
 Outputs true only if both inputs are true.

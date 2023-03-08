@@ -3,8 +3,8 @@
 Human interaction requires
 ## Automatic 
 No human interaction
-Optical Mark recognition(OMR)/Optical Charactor recognition (OCR)
-Magnetic ink charactor recognition (MICR)
+Optical Mark recognition(OMR)/Optical Character recognition (OCR)
+Magnetic ink character recognition (MICR)
 Sensors
 
 # Output

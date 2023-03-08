@@ -1,4 +1,4 @@
 - Holds BIOS 
-- Non volitile
-- Random Acsses
-- Isnt written to in normal use
+- Non volatile
+- Random Access
+- Isn't written to in normal use although it can be re-flashed 

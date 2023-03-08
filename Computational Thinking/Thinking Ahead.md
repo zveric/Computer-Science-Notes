@@ -1,4 +1,4 @@
-## Decompisition 
+## Decomposition 
 Breaking the system down in to smaller chunks allows a modular solution to be developed
 
 ### The inputs and outputs for each module will need to be identified as well as the following:

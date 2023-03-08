@@ -1,0 +1,4 @@
+- Kernel
+- Drivers
+- User interface
+- System Utilities

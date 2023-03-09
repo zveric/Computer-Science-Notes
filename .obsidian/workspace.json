@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logic/Logic.md",
+                "file": "Web Technology/HTML (Hyper Text Markup Language).md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Logic/Logic.md",
+                "file": "Web Technology/HTML (Hyper Text Markup Language).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Logic/Logic.md",
+                "file": "Web Technology/HTML (Hyper Text Markup Language).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Logic/Logic.md"
+                "file": "Web Technology/HTML (Hyper Text Markup Language).md"
               }
             }
           },
@@ -180,6 +180,9 @@
   },
   "active": "b30572be937d2c01",
   "lastOpenFiles": [
+    "Web Technology/CSS (Cascading Style Sheets).md",
+    "Web Technology/HTML (Hyper Text Markup Language).md",
+    "Logic/Logic.md",
     "Logic/Karnaugh Maps.md",
     "Legislation/Legistaltion.md",
     "Input + Output/Input-Output.md",
@@ -205,9 +208,6 @@
     "Architecture/F-D-E Cycle/F-D-E.md",
     "Architecture/CPU Performance/Factors that effect the performance of a CPU.md",
     "TopicList.md",
-    "Operating Systems/Parts of a Operating System.md",
-    "Operating Systems/Purpose of the operating system.md",
-    "Networks/Network Security.md",
     "Operating Systems",
     "Object Oreantated Programming",
     "Networks/Network DNS.pptx",

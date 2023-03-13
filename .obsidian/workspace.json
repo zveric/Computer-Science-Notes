@@ -13,31 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web Technology/HTML (Hyper Text Markup Language).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "83a58d319dda2ddd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Networks/Network Security.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "efda625845397424",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Operating Systems/Purpose of the operating system.md",
+                "file": "Web Technology/Java Script.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web Technology/HTML (Hyper Text Markup Language).md",
+                "file": "Web Technology/Java Script.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web Technology/HTML (Hyper Text Markup Language).md",
+                "file": "Web Technology/Java Script.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web Technology/HTML (Hyper Text Markup Language).md"
+                "file": "Web Technology/Java Script.md"
               }
             }
           },
@@ -178,10 +154,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b30572be937d2c01",
+  "active": "80cf8153d56a0fc0",
   "lastOpenFiles": [
-    "Web Technology/CSS (Cascading Style Sheets).md",
+    "TopicList.md",
+    "Operating Systems/Purpose of the operating system.md",
     "Web Technology/HTML (Hyper Text Markup Language).md",
+    "Web Technology/CSS (Cascading Style Sheets).md",
     "Logic/Logic.md",
     "Logic/Karnaugh Maps.md",
     "Legislation/Legistaltion.md",
@@ -206,8 +184,6 @@
     "Architecture/PPQs/Architecture Answers.md",
     "Architecture/Little Man Computer/Assembly Language Intro.md",
     "Architecture/F-D-E Cycle/F-D-E.md",
-    "Architecture/CPU Performance/Factors that effect the performance of a CPU.md",
-    "TopicList.md",
     "Operating Systems",
     "Object Oreantated Programming",
     "Networks/Network DNS.pptx",

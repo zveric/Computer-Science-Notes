@@ -10,12 +10,16 @@
 <body>
   <img id="test" src="Wallace-and-Gromit-2.jpg" alt="Wallace and Gromit" style="display:none">
   <button onclick="document.getElementById('test').style.display = 'block'">Do you want to see Gromit?</button>
-  <button onclick="document.getElementByI('test').style.display = 'none'">Do you wish to remove him from the screen?</button>
+  <button onclick="document.getElementById('test').style.display = 'none'">Do you wish to remove him from the screen?</button>
+  <p id="demo"></p>
+  
+  <script>
+    var age = 17;
+    if (age < 18) text = "Too young to buy alcohol";
+    document.getElementById("demo").innerHTML = text;
+  </script> 
+  
 
 </body>
 
-var mystring = "Hello"
-  if mystring == "Hello"{
-    alert("Wooo");
-  }
 </html> 

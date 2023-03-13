@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web Technology/Java Script.md",
+                "file": "Web Technology/HTML (Hyper Text Markup Language).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web Technology/Java Script.md",
+                "file": "Web Technology/HTML (Hyper Text Markup Language).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web Technology/Java Script.md",
+                "file": "Web Technology/HTML (Hyper Text Markup Language).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web Technology/Java Script.md"
+                "file": "Web Technology/HTML (Hyper Text Markup Language).md"
               }
             }
           },
@@ -154,12 +154,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "80cf8153d56a0fc0",
+  "active": "b30572be937d2c01",
   "lastOpenFiles": [
+    "Web Technology/CSS (Cascading Style Sheets).md",
+    "Web Technology/Java Script.md",
     "TopicList.md",
     "Operating Systems/Purpose of the operating system.md",
     "Web Technology/HTML (Hyper Text Markup Language).md",
-    "Web Technology/CSS (Cascading Style Sheets).md",
     "Logic/Logic.md",
     "Logic/Karnaugh Maps.md",
     "Legislation/Legistaltion.md",
@@ -183,7 +184,6 @@
     "Architecture/PPQs/Architectures PPQ.pdf",
     "Architecture/PPQs/Architecture Answers.md",
     "Architecture/Little Man Computer/Assembly Language Intro.md",
-    "Architecture/F-D-E Cycle/F-D-E.md",
     "Operating Systems",
     "Object Oreantated Programming",
     "Networks/Network DNS.pptx",

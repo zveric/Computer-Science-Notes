@@ -31,7 +31,7 @@
 - kept in a format which identifies individuals for no longer than is necessary - data can be kept for longer as long as anything that identifies the individual is removed
 - processed in a manner that ensures appropriate security, including protection against unauthorised or unlawful processing and against accidental loss, destruction or damage, using appropriate technical or organisational measures - in other words, an organisation must take adequate actions to ensure that the data is safe from accidental loss and cyber-attacks
 
-## Computer missuse act (1990)
+## Computer misuse act (1990)
 - Unauthorised access to computer material
 - Unauthorised access with intent to commit or facilitate a crime
 - Unauthorised modification of computer material

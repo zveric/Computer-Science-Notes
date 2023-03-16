@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logic/Logic.md",
+                "file": "TopicList.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Logic/Logic.md",
+                "file": "TopicList.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Logic/Logic.md",
+                "file": "TopicList.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Logic/Logic.md"
+                "file": "TopicList.md"
               }
             }
           },
@@ -156,6 +156,7 @@
   },
   "active": "b30572be937d2c01",
   "lastOpenFiles": [
+    "Logic/Logic.md",
     "TopicList.md",
     "Procedural Languages.md",
     "Legislation/Legistaltion.md",
@@ -164,7 +165,6 @@
     "Web Technology/HTML (Hyper Text Markup Language).md",
     "Web Technology/Java Script.md",
     "Operating Systems/Purpose of the operating system.md",
-    "Logic/Logic.md",
     "Logic/Karnaugh Maps.md",
     "Input + Output/Input-Output.md",
     "File Access Methods/Serial Access.md",

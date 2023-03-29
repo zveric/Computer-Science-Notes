@@ -1,0 +1,4 @@
+- A key [[Purpose of the operating system]] is to manage memory making sure that there is enough left to run programs
+- Memory is finite and like any finite resource memory needs to be managed
+- Memory is split up into segments
+- 

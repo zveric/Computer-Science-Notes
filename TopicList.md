@@ -1,8 +1,0 @@
-- Number Types
-- Stacks + Queues
-- Legal
-- Boolean logic
-- Karnehmaps 
-- Algorithms
-- Computational thinking
-- HTML, CSS, Java Script

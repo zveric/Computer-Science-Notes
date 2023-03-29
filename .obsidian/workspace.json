@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TopicList.md",
+                "file": "Stacks vs Queue.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "86c583c5106fc4ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Memory Management/Memory Management Introduction.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TopicList.md",
+                "file": "Memory Management/Memory Management Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TopicList.md",
+                "file": "Memory Management/Memory Management Introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TopicList.md"
+                "file": "Memory Management/Memory Management Introduction.md"
               }
             }
           },
@@ -154,11 +167,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b30572be937d2c01",
+  "active": "86c583c5106fc4ec",
   "lastOpenFiles": [
+    "Stacks vs Queue.md",
+    "Memory Management/Memory Management Introduction.md",
+    "Memory Management",
+    "TopicList.md",
     "Logic/Logic.md",
     "Logic/Karnaugh Maps.md",
-    "TopicList.md",
     "Procedural Languages.md",
     "Legislation/Legistaltion.md",
     "Web Technology/HTML Work/Wallace-and-Gromit-2.jpg",
@@ -181,10 +197,8 @@
     "Architecture/Storage/Secondary Storage/Secondary Storage.md",
     "Architecture/Storage/RAM and ROM/ROM.md",
     "Architecture/Storage/RAM and ROM/RAM.md",
-    "Architecture/PPQs/CPU PPQ Answers.md",
     "Architecture/PPQs/CPU PPQ.pdf",
     "Architecture/PPQs/Architectures PPQ.pdf",
-    "Architecture/PPQs/Architecture Answers.md",
     "Operating Systems",
     "Object Oreantated Programming",
     "Networks/Network DNS.pptx",
@@ -194,7 +208,6 @@
     "Networks/Network Basics PPQ Edited.pdf",
     "Networks/Network Protocols PPQ.pdf",
     "Networks/Network Basics PPQ.pdf",
-    "Networks/Network Basics PPQ.xopp",
     "Attachments/Pasted image 20230227121356.png",
     "Attachments/Pasted image 20230227121146.png",
     "Attachments/Pasted image 20230227121040.png"

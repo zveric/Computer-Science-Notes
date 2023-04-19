@@ -25,14 +25,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Memory Management/Memory Management Introduction.md",
+                "file": "Operating Systems/Purpose of the operating system.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "94bd7dfd9ccc8696",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Operating Systems/Types of Operating Systems.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "948b8acdc63d93c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Operating Systems/Scheduling.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -98,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Memory Management/Memory Management Introduction.md",
+                "file": "Operating Systems/Scheduling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Memory Management/Memory Management Introduction.md",
+                "file": "Operating Systems/Scheduling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Memory Management/Memory Management Introduction.md"
+                "file": "Operating Systems/Scheduling.md"
               }
             }
           },
@@ -167,12 +191,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "86c583c5106fc4ec",
+  "active": "948b8acdc63d93c2",
   "lastOpenFiles": [
+    "Operating Systems/Scheduling PPQ.docx",
+    "Operating Systems/Scheduling PPQ.docx.crdownload",
+    "Operating Systems/Scheduling.pptx",
+    "Operating Systems/Scheduling.pptx.crdownload",
+    "Operating Systems/Types of Operating Systems.md",
+    "Operating Systems/Scheduling.md",
+    "Operating Systems/Purpose of the operating system.md",
+    "Memory Management/Memory Management Introduction.md",
+    "Operating Systems/Types of OS.pptx",
+    "Operating Systems/Types of OS.pptx.crdownload",
     "Memory Management/lu5919ej7p.tmp",
     "Memory Management/Memory Management PPQ.docx",
     "Stacks vs Queue.md",
-    "Memory Management/Memory Management Introduction.md",
     "Memory Management",
     "TopicList.md",
     "Logic/Logic.md",
@@ -183,7 +216,6 @@
     "Web Technology/CSS (Cascading Style Sheets).md",
     "Web Technology/HTML (Hyper Text Markup Language).md",
     "Web Technology/Java Script.md",
-    "Operating Systems/Purpose of the operating system.md",
     "Input + Output/Input-Output.md",
     "File Access Methods/Serial Access.md",
     "File Access Methods/Sequential Access.md",
@@ -196,18 +228,10 @@
     "Computational Thinking/Thinking Abstractly.md",
     "Architecture/Architecture.md",
     "Architecture/Storage/Secondary Storage/Storage Devices PPQ.md",
-    "Architecture/Storage/Secondary Storage/Secondary Storage.md",
-    "Architecture/Storage/RAM and ROM/ROM.md",
     "Architecture/PPQs/CPU PPQ.pdf",
     "Architecture/PPQs/Architectures PPQ.pdf",
-    "Operating Systems",
-    "Object Oreantated Programming",
-    "Networks/Network DNS.pptx",
-    "Networks/Network DNS.pptx.crdownload",
     "Attachments/Pasted image 20230301124433.png",
     "Attachments/Pasted image 20230301123750.png",
-    "Networks/Network Basics PPQ Edited.pdf",
-    "Networks/Network Protocols PPQ.pdf",
     "Attachments/Pasted image 20230227121356.png",
     "Attachments/Pasted image 20230227121146.png",
     "Attachments/Pasted image 20230227121040.png"

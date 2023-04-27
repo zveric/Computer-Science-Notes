@@ -1,0 +1,251 @@
+{
+  "main": {
+    "id": "8858575545b27ea7",
+    "type": "split",
+    "children": [
+      {
+        "id": "52069899fb00340b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b30572be937d2c01",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Stacks vs Queue.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "86c583c5106fc4ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Operating Systems/Purpose of the operating system.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "94bd7dfd9ccc8696",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Operating Systems/Types of Operating Systems.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "948b8acdc63d93c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Operating Systems/Scheduling.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "aee9b5b941cd9f8a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Types of Applications.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1c4a5d090c107cf5",
+    "type": "split",
+    "children": [
+      {
+        "id": "4dba2807c415f105",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "80cf8153d56a0fc0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a9c420d67a22658f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e86468bce457f2b3",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "22d36e3b30e59c28",
+    "type": "split",
+    "children": [
+      {
+        "id": "c80229f292c7235f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7a42607a07e1bec3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Types of Applications.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f92e352b9df5e97a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Types of Applications.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "920e19d69691ef68",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "5ec855fa0addb0e1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Types of Applications.md"
+              }
+            }
+          },
+          {
+            "id": "732ec428499a5860",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "aee9b5b941cd9f8a",
+  "lastOpenFiles": [
+    "Types of Applications PPQ.docx",
+    "Types of Applications PPQ.docx.crdownload",
+    "Types of Applications.pptx",
+    "Types of Applications.pptx.crdownload",
+    "Operating Systems/Scheduling.md",
+    "Types of Applications.md",
+    "Operating Systems/Scheduling PPQ.docx",
+    "Operating Systems/Scheduling PPQ.docx.crdownload",
+    "Operating Systems/Scheduling.pptx",
+    "Operating Systems/Scheduling.pptx.crdownload",
+    "Operating Systems/Types of Operating Systems.md",
+    "Operating Systems/Purpose of the operating system.md",
+    "Memory Management/Memory Management Introduction.md",
+    "Operating Systems/Types of OS.pptx",
+    "Operating Systems/Types of OS.pptx.crdownload",
+    "Memory Management/lu5919ej7p.tmp",
+    "Stacks vs Queue.md",
+    "TopicList.md",
+    "Logic/Logic.md",
+    "Logic/Karnaugh Maps.md",
+    "Procedural Languages.md",
+    "Legislation/Legistaltion.md",
+    "Web Technology/HTML Work/Wallace-and-Gromit-2.jpg",
+    "Web Technology/CSS (Cascading Style Sheets).md",
+    "Web Technology/HTML (Hyper Text Markup Language).md",
+    "Web Technology/Java Script.md",
+    "Input + Output/Input-Output.md",
+    "File Access Methods/Serial Access.md",
+    "File Access Methods/Sequential Access.md",
+    "File Access Methods/Random (Direct) Access.md",
+    "Databases/Relational Database.md",
+    "Databases/Methods of Capturing, Selecting, Managing and Exchanging Data.md",
+    "Databases/Database Introduction.md",
+    "Computational Thinking/Thinking Ahead.md",
+    "Computational Thinking/Thinking Procedurally.md",
+    "Computational Thinking/Thinking Abstractly.md",
+    "Architecture/Architecture.md",
+    "Attachments/Pasted image 20230301124433.png",
+    "Attachments/Pasted image 20230301123750.png",
+    "Attachments/Pasted image 20230227121356.png",
+    "Attachments/Pasted image 20230227121146.png",
+    "Attachments/Pasted image 20230227121040.png"
+  ]
+}

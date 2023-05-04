@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f7c728fdca2f8c78",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Use of an IDE.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -64,6 +77,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "7255dce4e79e3248",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -85,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Types of Applications.md",
+                "file": "Use of an IDE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Types of Applications.md",
+                "file": "Use of an IDE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Types of Applications.md"
+                "file": "Use of an IDE.md"
               }
             }
           },
@@ -154,24 +175,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "aee9b5b941cd9f8a",
+  "active": "f7c728fdca2f8c78",
   "lastOpenFiles": [
+    "Use of an IDE PPQ.odt",
+    "lu27861ab4gh.tmp",
+    "Use of an IDE PPQ.docx",
+    "Use of an IDE PPQ.docx.crdownload",
+    "Use of an IDE.pptx",
+    "Types of Applications.md",
+    "Use of an IDE.md",
     "Types of Applications PPQ.docx",
     "Types of Applications PPQ.docx.crdownload",
     "Types of Applications.pptx",
     "Types of Applications.pptx.crdownload",
     "Operating Systems/Scheduling.md",
-    "Types of Applications.md",
     "Operating Systems/Scheduling PPQ.docx",
     "Operating Systems/Scheduling PPQ.docx.crdownload",
-    "Operating Systems/Scheduling.pptx",
-    "Operating Systems/Scheduling.pptx.crdownload",
     "Operating Systems/Types of Operating Systems.md",
     "Operating Systems/Purpose of the operating system.md",
     "Memory Management/Memory Management Introduction.md",
-    "Operating Systems/Types of OS.pptx",
-    "Operating Systems/Types of OS.pptx.crdownload",
-    "Memory Management/lu5919ej7p.tmp",
     "Stacks vs Queue.md",
     "TopicList.md",
     "Logic/Logic.md",
@@ -192,7 +214,6 @@
     "Computational Thinking/Thinking Ahead.md",
     "Computational Thinking/Thinking Procedurally.md",
     "Computational Thinking/Thinking Abstractly.md",
-    "Architecture/Architecture.md",
     "Attachments/Pasted image 20230301124433.png",
     "Attachments/Pasted image 20230301123750.png",
     "Attachments/Pasted image 20230227121356.png",

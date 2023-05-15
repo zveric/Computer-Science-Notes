@@ -1,0 +1,3 @@
+- Testing is an important part of software development
+- Test plans are made during the design phase
+- 

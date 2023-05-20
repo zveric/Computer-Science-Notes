@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Translators.md",
+                "file": "File Access Methods/Serial Access.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Translators.md",
+                "file": "File Access Methods/Serial Access.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Translators.md",
+                "file": "File Access Methods/Serial Access.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Translators.md"
+                "file": "File Access Methods/Serial Access.md"
               }
             }
           },
@@ -164,8 +164,13 @@
   },
   "active": "aebdd3073ab2912a",
   "lastOpenFiles": [
-    "Testing.md",
+    "File Access Methods/Sequential Access.md",
+    "File Access Methods/Random (Direct) Access.md",
+    "Networks/Network Hardware.md",
+    "Networks/Intro To Networks.md",
+    "Computational Thinking/Thinking Abstractly.md",
     "Translators.md",
+    "Testing.md",
     "Use of an IDE.md",
     "Use of an IDE PPQ.odt",
     "lu27861ab4gh.tmp",
@@ -194,13 +199,8 @@
     "Web Technology/Java Script.md",
     "Input + Output/Input-Output.md",
     "File Access Methods/Serial Access.md",
-    "File Access Methods/Sequential Access.md",
-    "File Access Methods/Random (Direct) Access.md",
     "Databases/Relational Database.md",
     "Databases/Methods of Capturing, Selecting, Managing and Exchanging Data.md",
-    "Databases/Database Introduction.md",
-    "Computational Thinking/Thinking Ahead.md",
-    "Computational Thinking/Thinking Procedurally.md",
     "Attachments/Pasted image 20230301124433.png",
     "Attachments/Pasted image 20230301123750.png",
     "Attachments/Pasted image 20230227121356.png",

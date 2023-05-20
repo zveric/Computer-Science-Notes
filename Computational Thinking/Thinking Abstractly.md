@@ -1,1 +1,1 @@
-Simplifing an idea removing unnessasary data
+Simplifying an idea removing unnecessary data

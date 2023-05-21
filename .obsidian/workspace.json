@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "File Access Methods/Serial Access.md",
+                "file": "Databases/Database Introduction.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "File Access Methods/Serial Access.md",
+                "file": "Databases/Database Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "File Access Methods/Serial Access.md",
+                "file": "Databases/Database Introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "File Access Methods/Serial Access.md"
+                "file": "Databases/Database Introduction.md"
               }
             }
           },
@@ -164,6 +164,9 @@
   },
   "active": "aebdd3073ab2912a",
   "lastOpenFiles": [
+    "666846-question-paper-computer-systems1.pdf",
+    "666846-question-paper-computer-systems.xopp",
+    "File Access Methods/Serial Access.md",
     "666846-question-paper-computer-systems.pdf",
     "666846-question-paper-computer-systems.pdf.crdownload",
     "File Access Methods/Sequential Access.md",
@@ -182,8 +185,6 @@
     "Types of Applications.md",
     "Types of Applications PPQ.docx",
     "Types of Applications PPQ.docx.crdownload",
-    "Types of Applications.pptx",
-    "Types of Applications.pptx.crdownload",
     "Operating Systems/Scheduling.md",
     "Operating Systems/Types of Operating Systems.md",
     "Operating Systems/Purpose of the operating system.md",
@@ -199,7 +200,6 @@
     "Web Technology/HTML (Hyper Text Markup Language).md",
     "Web Technology/Java Script.md",
     "Input + Output/Input-Output.md",
-    "File Access Methods/Serial Access.md",
     "Databases/Relational Database.md",
     "Attachments/Pasted image 20230301124433.png",
     "Attachments/Pasted image 20230301123750.png",

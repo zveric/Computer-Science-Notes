@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Databases/Database Introduction.md",
+                "file": "Use of an IDE.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Databases/Database Introduction.md",
+                "file": "Use of an IDE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Databases/Database Introduction.md",
+                "file": "Use of an IDE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Databases/Database Introduction.md"
+                "file": "Use of an IDE.md"
               }
             }
           },
@@ -164,14 +164,15 @@
   },
   "active": "aebdd3073ab2912a",
   "lastOpenFiles": [
+    "File Access Methods/Sequential Access.md",
+    "666846-question-paper-computer-systems.pdf",
+    "Databases/Database Introduction.md",
     "666846-question-paper-computer-systems1.odg",
     "lu256609f4tl.tmp",
     "666846-question-paper-computer-systems1.pdf",
     "666846-question-paper-computer-systems.xopp",
     "File Access Methods/Serial Access.md",
-    "666846-question-paper-computer-systems.pdf",
     "666846-question-paper-computer-systems.pdf.crdownload",
-    "File Access Methods/Sequential Access.md",
     "File Access Methods/Random (Direct) Access.md",
     "Networks/Network Hardware.md",
     "Networks/Intro To Networks.md",
@@ -183,7 +184,6 @@
     "lu27861ab4gh.tmp",
     "Use of an IDE PPQ.docx",
     "Use of an IDE PPQ.docx.crdownload",
-    "Use of an IDE.pptx",
     "Types of Applications.md",
     "Operating Systems/Scheduling.md",
     "Operating Systems/Types of Operating Systems.md",
@@ -200,7 +200,6 @@
     "Web Technology/HTML (Hyper Text Markup Language).md",
     "Web Technology/Java Script.md",
     "Input + Output/Input-Output.md",
-    "Databases/Relational Database.md",
     "Attachments/Pasted image 20230301124433.png",
     "Attachments/Pasted image 20230301123750.png",
     "Attachments/Pasted image 20230227121356.png",

@@ -4,8 +4,8 @@
 
 ## Database components
 
-### File(table)
-- A collection of related records which contain the same type of information as all the other records 
+### File (table) 
+- A collection of related records which contain the same type of information as all the other record
 - e.g. Information about ALL students in a class
 
 ### Record

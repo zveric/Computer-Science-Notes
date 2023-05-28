@@ -13,5 +13,4 @@
 
 ### Debug tools
 - These allow you to spot and correct programming errors.
-- A common feature is a breakpoint creator
-- 
+- A common feature is a break-point creator

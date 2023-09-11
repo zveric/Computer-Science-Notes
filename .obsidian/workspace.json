@@ -11,11 +11,9 @@
             "id": "aebdd3073ab2912a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Use of an IDE.md",
-                "mode": "source",
-                "source": false
+                "file": "Architecture/Little Man Computer/LMC Booklet.pdf"
               }
             }
           }
@@ -93,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Use of an IDE.md",
+                "file": "Architecture/Little Man Computer/LMC Booklet.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Use of an IDE.md",
+                "file": "Architecture/Little Man Computer/LMC Booklet.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Use of an IDE.md"
+                "file": "Architecture/Little Man Computer/LMC Booklet.pdf"
               }
             }
           },
@@ -162,8 +160,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "732ec428499a5860",
+  "active": "aebdd3073ab2912a",
   "lastOpenFiles": [
+    "Architecture/F-D-E Cycle/F-D-E.md",
+    "Use of an IDE.md",
     "File Access Methods/Sequential Access.md",
     "666846-question-paper-computer-systems.pdf",
     "Databases/Database Introduction.md",
@@ -179,7 +179,6 @@
     "Computational Thinking/Thinking Abstractly.md",
     "Translators.md",
     "Testing.md",
-    "Use of an IDE.md",
     "Use of an IDE PPQ.odt",
     "lu27861ab4gh.tmp",
     "Use of an IDE PPQ.docx",

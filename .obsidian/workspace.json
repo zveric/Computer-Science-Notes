@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "52069899fb00340b",
+        "id": "8fec08116b178ad2",
         "type": "tabs",
         "children": [
           {
-            "id": "aebdd3073ab2912a",
+            "id": "243a49094ae025c5",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Architecture/Little Man Computer/LMC Booklet.pdf"
+                "file": "Types of Programming Languages.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -91,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Architecture/Little Man Computer/LMC Booklet.pdf",
+                "file": "Types of Programming Languages.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Architecture/Little Man Computer/LMC Booklet.pdf",
+                "file": "Types of Programming Languages.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,24 +133,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Architecture/Little Man Computer/LMC Booklet.pdf"
+                "file": "Types of Programming Languages.md"
               }
-            }
-          },
-          {
-            "id": "732ec428499a5860",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -160,8 +155,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "aebdd3073ab2912a",
+  "active": "243a49094ae025c5",
   "lastOpenFiles": [
+    "Types of Applications.md",
+    "Types of Programming Languages.md",
+    "Architecture/Little Man Computer/LMC Booklet.pdf",
     "Architecture/F-D-E Cycle/F-D-E.md",
     "Use of an IDE.md",
     "File Access Methods/Sequential Access.md",
@@ -182,8 +180,6 @@
     "Use of an IDE PPQ.odt",
     "lu27861ab4gh.tmp",
     "Use of an IDE PPQ.docx",
-    "Use of an IDE PPQ.docx.crdownload",
-    "Types of Applications.md",
     "Operating Systems/Scheduling.md",
     "Operating Systems/Types of Operating Systems.md",
     "Operating Systems/Purpose of the operating system.md",
@@ -198,7 +194,6 @@
     "Web Technology/CSS (Cascading Style Sheets).md",
     "Web Technology/HTML (Hyper Text Markup Language).md",
     "Web Technology/Java Script.md",
-    "Input + Output/Input-Output.md",
     "Attachments/Pasted image 20230301124433.png",
     "Attachments/Pasted image 20230301123750.png",
     "Attachments/Pasted image 20230227121356.png",

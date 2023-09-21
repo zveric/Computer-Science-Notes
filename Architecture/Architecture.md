@@ -7,7 +7,7 @@
     - Address bus
       One directional, Carries the address requested
     - Data bus
-      Multidirectional, Carries data
+      Multi-directional, Carries data
     - Control Bus
       Multi directional, From the control unit to the rest of the CPU
 
@@ -19,5 +19,5 @@
   - The Program counter (PC) store the next instruction that will be executed
   - CIR stores the instruction that is currently being decoded or executed by the processor
   - MDR Contains data that has just been written or is to be written to memory
-  - MAR Holds the memory address that is being utilized at the present time
+  - MAR Holds the memory address that is being utilised at the present time
 

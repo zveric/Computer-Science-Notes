@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8fec08116b178ad2",
+        "id": "a00f11411a2864bd",
         "type": "tabs",
         "children": [
           {
-            "id": "243a49094ae025c5",
+            "id": "f1e80c475023150c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Types of Application/Object Oreantated Programming/Intro.md",
+                "file": "Memory Address Modes.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Types of Application/Object Oreantated Programming/Intro.md",
+                "file": "Memory Address Modes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Types of Application/Object Oreantated Programming/Intro.md",
+                "file": "Memory Address Modes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Types of Application/Object Oreantated Programming/Intro.md"
+                "file": "Memory Address Modes.md"
               }
             }
           },
@@ -165,13 +165,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "243a49094ae025c5",
+  "active": "f1e80c475023150c",
   "lastOpenFiles": [
+    "Architecture/Architecture.md",
+    "Memory Address Modes.md",
+    "Types of Application/Object Oreantated Programming/Intro.md",
     "Types of Application/Object Oreantated Programming/Intro to OOP - Worksheet 1.pdf",
     "Compression.md",
     "Types of Application",
     "BIOS and Virtual Machines.md",
-    "Types of Application/Object Oreantated Programming/Intro.md",
     "Types of Programming Languages.md",
     "Types of Applications.md",
     "Architecture/Little Man Computer/LMC Booklet.pdf",
@@ -193,7 +195,6 @@
     "Translators.md",
     "Testing.md",
     "Use of an IDE PPQ.odt",
-    "lu27861ab4gh.tmp",
     "Operating Systems/Scheduling.md",
     "Operating Systems/Types of Operating Systems.md",
     "Operating Systems/Purpose of the operating system.md",
@@ -202,7 +203,6 @@
     "TopicList.md",
     "Logic/Logic.md",
     "Logic/Karnaugh Maps.md",
-    "Procedural Languages.md",
     "Web Technology/HTML Work/Wallace-and-Gromit-2.jpg",
     "Attachments/Pasted image 20230301124433.png",
     "Attachments/Pasted image 20230301123750.png",

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Memory Address Modes.md",
+                "file": "Databases/Relational Database.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Memory Address Modes.md",
+                "file": "Databases/Relational Database.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Memory Address Modes.md",
+                "file": "Databases/Relational Database.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Memory Address Modes.md"
+                "file": "Databases/Relational Database.md"
               }
             }
           },
@@ -167,8 +167,11 @@
   },
   "active": "f1e80c475023150c",
   "lastOpenFiles": [
-    "Architecture/Architecture.md",
+    "Databases/Database Introduction.md",
+    "Project/20160514233907_1.jpg",
+    "Databases/Relational Database.md",
     "Memory Address Modes.md",
+    "Architecture/Architecture.md",
     "Types of Application/Object Oreantated Programming/Intro.md",
     "Types of Application/Object Oreantated Programming/Intro to OOP - Worksheet 1.pdf",
     "Compression.md",
@@ -181,7 +184,6 @@
     "Use of an IDE.md",
     "File Access Methods/Sequential Access.md",
     "Attachments/666846-question-paper-computer-systems.pdf",
-    "Databases/Database Introduction.md",
     "666846-question-paper-computer-systems1.odg",
     "lu256609f4tl.tmp",
     "Attachments/666846-question-paper-computer-systems1.pdf",
@@ -201,8 +203,6 @@
     "Memory Management/Memory Management Introduction.md",
     "Stacks vs Queue.md",
     "TopicList.md",
-    "Logic/Logic.md",
-    "Logic/Karnaugh Maps.md",
     "Web Technology/HTML Work/Wallace-and-Gromit-2.jpg",
     "Attachments/Pasted image 20230301124433.png",
     "Attachments/Pasted image 20230301123750.png",

@@ -10,6 +10,7 @@
 
 ### Record
 - All of the data relating to one item or “thing”.  
+- A group of related fields.
 - e.g. All information about ONE student in the class
 
 ### Field
@@ -27,7 +28,7 @@
 - Easy to set up and understand – no specialist knowledge needed
 
 ### Disadvantages:
-- May have redundant data
+- May have redundant data. (Data that isn't required)
 - Potential duplication of data
 - Harder to update the data due to duplication
 - Records are not unique
@@ -36,8 +37,8 @@
 
 ## Relational databases 
 - A relational database has more than one table which are linked together by primary and foreign keys.
-	- A primary key is used to **uniquely** identify a record
-  - A foreign key is a primary key in one table which is used as an attribute in another table to provide a link between tables
+	- A **primary** key is used to **uniquely** identify a record
+	- A **foreign** key is a primary key in one table which is used as an attribute in another table to provide a link between tables
   - ![image](image_3.png)
 - Sometimes you can't identify a single key field in your database. By combining multiple fields a **Compound Key** can be created.
 - A secondary key does exist and is often used to help index results for searching quickly
@@ -53,7 +54,7 @@
 ### Disadvantages
 - More difficult to set up
 
-### Data integrity
+## Data integrity
 -  Data integrity refers to the correctness of the data over the lifetime of that data.
 -  This means that the data is correct when it enters the database, as it is queried and updated up until the point it is removed from the system.
 -  Data must be complete, accurate and consistent.

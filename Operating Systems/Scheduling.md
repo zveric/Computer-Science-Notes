@@ -1,4 +1,4 @@
-g- Scheduling is the process that computers use to create a feeling of multi-tasking
+- Scheduling is the process that computers use to create a feeling of multi-tasking
 - This is done by a piece of software called a **scheduler**
 
 ## Round Robin

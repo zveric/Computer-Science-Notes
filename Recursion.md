@@ -1,0 +1,1 @@
+- A very efficient way of programming is by repeating a function until a task is complete.

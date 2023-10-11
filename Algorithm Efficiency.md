@@ -1,0 +1,18 @@
+- An algorithm is a set of instructions that, when executed, completes a defined task.
+- To make algorithms more efficient you should take into account:
+	- Space efficiency
+	- Time efficiency
+	- Big O
+
+## Space efficiency
+- A measure of how much memory the code takes up
+- 
+
+- The two main measures of efficiency are time and space.
+
+
+## Big O notation
+
+- O(1) – the function performance is constant and does not depend on N e.g. the _sum of all numbers_ function
+- O(n) – the algorithm performance changes linearly with N e.g. the for loop example for adding numbers
+- O(n!) – the algorithm is extremely sensitive to the input size and it rapidly becomes impractical e.g. using a brute force technique to sort N words in to alphabetical order

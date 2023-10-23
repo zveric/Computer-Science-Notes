@@ -4,6 +4,7 @@
 	- is sequential, meaning that instructions carried out one after another. These steps form the program flow.
 	- Has statements in blocks called procedures & functions. These statements are completed in a specific order.
 - ## Procedures and Functions
+  id:: 6527a238-81fc-4321-b4ba-440c8e80dae2
 	- Programs are written to perform specific tasks, but it is often useful to break a task down into smaller parts, and consider each separately.
 	- Each of these smaller parts can be handled by separate blocks of code within the same program.
 	- These blocks are called procedures or functions, and each procedure is given a unique identifier.
@@ -22,7 +23,7 @@
 		- #### By reference:
 			- Actual memory location of data is used so changes can be made to the actual value of data
 - ## Reserved Words
-	- Reserved words are words that cannot be used as an identifier (i.e. the name of a variable, function or label) because they have a special meaning to the compiler.
+	- Reserved words are words that cannot be used as an identifier (i.e. the name of a variable, function or label) because they have a special meaning to the ((6527c258-1d86-434f-9d4e-ea75756acc2a)) .
 	- They are also known as keywords, which are a subset of reserved words.
 - ## File Handling
 	- Some computer languages combine the 'Open' and 'Create' function so if the file does not exist, it is created.

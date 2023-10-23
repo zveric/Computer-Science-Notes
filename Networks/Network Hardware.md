@@ -10,6 +10,6 @@
 	- Similar to a hub however it only sends data to the node in the address.
 - Router 
   id:: 6527a237-060e-4658-8e4a-6492f62323c3
-	- Changes data from one network to another
+	- A device that changes data from one network to another
 - A Gateway
 	- Similar to a router but connects two dissimilar networks (networks on different protocols)

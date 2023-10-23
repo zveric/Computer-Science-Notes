@@ -1,23 +1,28 @@
-## Key Architecture Terminology
-
-- A word represents the number of bits that the computer can handle
-- A computer is any device or machine that can perform calculations.
-- A bus is a microscopic wire that carries data
-  - There are 3 types of bus
-    - Address bus
-      One directional, Carries the address requested
-    - Data bus
-      Multi-directional, Carries data
-    - Control Bus
-      Multi directional, From the control unit to the rest of the CPU
-
-- Registers are tiny slot in memory
-  - Control unit coordinates the rest of the CPU
-    - It contains a clock that keeps components of the CPU in time
-  - The ALU carries out calculations
-    - The accumulator (ACC) is a register within the ALU
-  - The Program counter (PC) store the next instruction that will be executed
-  - CIR stores the instruction that is currently being decoded or executed by the processor
-  - MDR Contains data that has just been written or is to be written to memory
-  - MAR Holds the memory address that is being utilised at the present time
-
+## Terminology
+	- A word represents the number of bits that the computer can handle
+	- A computer is any device or machine that can perform calculations.
+	- A bus is a microscopic wire that carries data
+		- There are 3 types of bus
+			- Address bus
+				- One directional, Carries the address requested
+			- Data bus
+				- Multi-directional, Carries data
+			- Control Bus
+				- Multi directional, From the control unit to the rest of the CPU
+	- Registers are tiny slot in memory
+		- Control unit coordinates the rest of the CPU
+			- It contains a clock that keeps components of the CPU in time
+		- The ALU carries out calculations
+			- The accumulator (ACC) is a register within the ALU
+		- Program counter (PC)
+			- stores the next instruction that will be executed
+		- CIR
+			- stores the instruction that is currently being decoded or executed by the processor
+		- MDR
+			- Contains data that has just been written or is to be written to memory
+		- MAR
+			- Holds the memory address that is being utilised at the present time
+- ## Types of Architecture
+- [[Harvard Architecture]]
+- [[Von Neumann Architecture]]
+-

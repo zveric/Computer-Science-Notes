@@ -52,3 +52,4 @@
 - Allows them to perform surveillance (e.g. key logging)
 - Certain actions require government approval
 - Different organisations have different limits on what they can do (GCHQ is amongst those that have most freedom).
+- 

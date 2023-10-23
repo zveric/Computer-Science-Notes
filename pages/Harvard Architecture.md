@@ -1,0 +1,7 @@
+- Used for embedded systems and super computers
+- ### Features
+	- Uses separate memory for data and programs
+		- In theory this leads to less bottle necks and corruption
+- ### Issues
+	- More space used than [[Von Neumann Architecture]]
+	- More complex than [[Von Neumann Architecture]] therefore more expensive to produce

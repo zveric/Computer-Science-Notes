@@ -1,0 +1,11 @@
+- Mostly used today in multipurpose desktop PCs.
+- ### Features:
+	- Single CU
+	- One instruction at a time
+	- Instructions executed in a linear sequence
+	- Uses FDE
+	- Programs and Data stored together in RAM
+- ### Issues:
+	- Shared memory may lead to corruption unlike [[Harvard Architecture]]
+	- Memory may not be released
+	- The data bus speed is a bottle neck

@@ -1,0 +1,28 @@
+- Big o is a measure of [[Algorithm Efficiency]] showing how efficiency changes when the amount of data inputted increases
+- The number of steps needed to complete the program is known as the complexity
+- Examples of Big O
+	- O(1)
+		- the function performance is constant and does not depend on N e.g. the _sum of all numbers_ function
+	- O(n)
+		- the algorithm performance changes linearly with N e.g. the for loop example for adding numbers
+	- O(n!)
+		- the algorithm is extremely sensitive to the input size and it rapidly becomes impractical e.g. using a brute force technique to sort N words in to alphabetical order
+- ## Simplifying Big o
+	- Work out which parts of the program are most dominant.
+	- **The rule to simplify a complexity expression it to drop any constants and ignore any constant coefficients of n.**
+	- For the example: 3 + 4n + 1
+	  collapsed:: true
+		- Which parts of this expression are the most important? i.e. which is the **dominant** term?
+			- If the program runs a million times, the effect of 3 and 1 (which are constants) is negligible; we can pretty much ignore them and are left with:		4n
+			- Does the 4 matter?
+				- Not really – if we had an algorithm with 5n or 3n, it changes the efficiency slightly, but the scale remains the same.
+	- For the example: 53 + 10n + 3 + 15n + 2 + 3n
+	  collapsed:: true
+		- This describes a program which has 53 lines of code, followed by a 10 line loop, then 3 lines of code etc.
+		- Dropping all of the constants we have
+			- 28n
+		- Drop the coefficient and the Big O expression is still
+			- *O(n)*
+		- A different programmer may have had more compact loops, but the efficiency is still the same as *n* dominates
+		-
+	-

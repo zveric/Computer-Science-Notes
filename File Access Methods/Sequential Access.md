@@ -1,3 +1,5 @@
+#[[File Access Methods]]
+
 - Records are stored one after another in order of a key field
 - In order to find the file the entire file-system may need to be searched but it tents to be faster than [[Serial Access]]
 - ### Adding and Deleting records

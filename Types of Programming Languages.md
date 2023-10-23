@@ -1,5 +1,4 @@
-## Programming Paradigms
-- ### Low level
+## Low level
 	- Geared towards a CPU family
 	- Almost machine code
 	- Code uses Mnemonics
@@ -8,24 +7,28 @@
 	- Good for close control of the CPU for maximum performance and efficiency
 	- Very hard to port to other CPU's
 	- Programmers need to know a large quantity of information about the CPU
-- ### Object-orientated
-	- Has classes and objects
-	- Has protections for variables (attributes) this is called encapsulation
-	- Makes it easier in some instances to provide working code
-	- Classes can be used as black boxes and can be implemented without any information on the workings of the code
-	- It is more complex than other types of programming languages
-- ### Declarative
-	- Very high level languages.
-	- The developer simply states what to do and not how to do it.
-	- It needs a database filled with rules and facts to function
-	- If no answer can be found the program returns false
-	- The statement doesn't have to be in a specific order
-	- Uses fuzzy logic
-	- Good for AI and Pattern Recognition
-- ### Procedural
-	- Programs are broken up into procedures and functions
-	- Sometimes called imperative languages
-	- SQL is a non procedural language as commands are simplified and the underlying program fills in the gaps
-	- People often have to specialise in a particular language
-	- Not as efficient as a low level language
-	- Not good at fuzzy conditions
+-
+- ## High Level
+  id:: 6527c0cc-cf5d-49f4-9f0b-ef4ed1f15e88
+	- ### [[Object Orientated Programming]]
+		- Includes ((6527a238-7e6c-4fe4-aa3e-6fef169eacf2))es and ((6527a238-1c37-4745-b473-6f9a05fc132a))
+		- Has protections for variables ( ((6527bf92-08b5-4a82-b4a0-4dd1c61e1738)) ) this is called encapsulation
+		- Makes it easier in some instances to provide working code
+		- Classes can be used as black boxes and can be implemented without any information on the workings of the code
+		- It is more complex than other types of programming languages
+		-
+	- ### Declarative
+		- Very high level languages.
+		- The developer simply states what to do and not how to do it.
+		- It needs a database filled with rules and facts to function
+		- If no answer can be found the program returns false
+		- The statement doesn't have to be in a specific order
+		- Uses fuzzy logic
+		- Good for AI and Pattern Recognition
+	- ### Procedural
+		- Programs are broken up into procedures and functions
+		- Sometimes called imperative languages
+		- SQL is a non procedural language as commands are simplified and the underlying program fills in the gaps
+		- People often have to specialise in a particular language
+		- Not as efficient as a low level language
+		- Not good at fuzzy conditions

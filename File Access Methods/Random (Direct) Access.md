@@ -1,3 +1,5 @@
+#[[File Access Methods]]
+
 - Random access is a term used to describe a computer's ability to immediately locate and retrieve data from a storage device
 - This method is often contrasted with [[sequential access]] as they are totally different
 - In random access, a fixed sized file is usually created, which is large enough to hold all the expected records.

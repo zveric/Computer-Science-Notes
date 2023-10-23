@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithm Efficiency.md",
+                "file": "Structured Query Language (SQL).md",
                 "mode": "source",
                 "source": false
               }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithm Efficiency.md",
+                "file": "Structured Query Language (SQL).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorithm Efficiency.md",
+                "file": "Structured Query Language (SQL).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorithm Efficiency.md"
+                "file": "Structured Query Language (SQL).md"
               }
             }
           },
@@ -158,8 +157,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a9c420d67a22658f",
+  "active": "80cf8153d56a0fc0",
   "lastOpenFiles": [
+    "Types of Application/Object Oreantated Programming/Object Orientated Programming.md",
+    "Types of Application/Object Oreantated Programming/Object Orientated.md",
+    "pages/Harvard Architecture.md",
+    "Architecture/Von Neumann Architecture.md",
+    "pages/Harvard.md",
+    "Architecture/Von Neumann.md",
+    "pages/File Access Methods.md",
+    "Memory Management/Memory Management Introduction.md",
+    "File Access Methods/Sequential Access.md",
+    "File Access Methods/Random (Direct) Access.md",
+    "File Access Methods/Serial Access.md",
+    "Structured Query Language (SQL).md",
+    "Legislation/Computing Related Legislation PPQ.pdf",
+    "Legislation/Legistaltion.md",
+    "BIOS and Virtual Machines.md",
     "Algorithm Efficiency.md",
     "Computational Thinking/Thinking Concurrently.md",
     "Transaction Processing.md",
@@ -169,34 +183,19 @@
     "Databases/Relational Database.md",
     "Databases/Database Introduction.md",
     "Databases/Methods of Capturing, Selecting, Managing and Exchanging Data.md",
-    "Structured Query Language (SQL).md",
     "Analysis Rec.docx",
     "Project/20160514233907_1.jpg",
     "Memory Address Modes.md",
     "Architecture/Architecture.md",
     "Types of Application/Object Oreantated Programming/Intro.md",
     "Types of Application/Object Oreantated Programming/Intro to OOP - Worksheet 1.pdf",
-    "Compression.md",
     "Types of Application",
-    "BIOS and Virtual Machines.md",
-    "Types of Programming Languages.md",
-    "Types of Applications.md",
     "Architecture/Little Man Computer/LMC Booklet.pdf",
-    "Architecture/F-D-E Cycle/F-D-E.md",
-    "Use of an IDE.md",
-    "File Access Methods/Sequential Access.md",
     "Attachments/666846-question-paper-computer-systems.pdf",
     "666846-question-paper-computer-systems1.odg",
     "lu256609f4tl.tmp",
     "Attachments/666846-question-paper-computer-systems1.pdf",
     "666846-question-paper-computer-systems.xopp",
-    "File Access Methods/Serial Access.md",
-    "666846-question-paper-computer-systems.pdf.crdownload",
-    "File Access Methods/Random (Direct) Access.md",
-    "Networks/Network Hardware.md",
-    "Networks/Intro To Networks.md",
-    "Computational Thinking/Thinking Abstractly.md",
-    "Translators.md",
     "Web Technology/HTML Work/Wallace-and-Gromit-2.jpg",
     "Attachments/Pasted image 20230301124433.png",
     "Attachments/Pasted image 20230301123750.png",

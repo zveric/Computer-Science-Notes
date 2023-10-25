@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networks/Intro To Networks.md",
+                "file": "pages/Lists.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Networks/Intro To Networks.md",
+                "file": "pages/Lists.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Networks/Intro To Networks.md",
+                "file": "pages/Lists.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Networks/Intro To Networks.md"
+                "file": "pages/Lists.md"
               }
             }
           },
@@ -160,15 +159,18 @@
   },
   "active": "14919715392c3cdd",
   "lastOpenFiles": [
+    "pages/Linked lists.md",
+    "Structured Query Language (SQL).md",
+    "Recursion.md",
+    "Architecture/Von Neumann Architecture.md",
+    "Networks/Network Hardware.md",
+    "Networks/Networks.md",
     "Networks/Types of Network.md",
-    "Networks/Intro To Networks.md",
     "pages/File Access Methods.md",
     "File Access Methods/Sequential Access.md",
-    "Structured Query Language (SQL).md",
     "Types of Application/Object Oreantated Programming/Object Orientated Programming.md",
     "Types of Application/Object Oreantated Programming/Object Orientated.md",
     "pages/Harvard Architecture.md",
-    "Architecture/Von Neumann Architecture.md",
     "pages/Harvard.md",
     "Architecture/Von Neumann.md",
     "Memory Management/Memory Management Introduction.md",
@@ -182,13 +184,10 @@
     "Transaction Processing.md",
     "Operating Systems/Scheduling.md",
     "Stacks vs Queue.md",
-    "Recursion.md",
     "Databases/Relational Database.md",
     "Databases/Database Introduction.md",
-    "Databases/Methods of Capturing, Selecting, Managing and Exchanging Data.md",
     "Analysis Rec.docx",
     "Project/20160514233907_1.jpg",
-    "Memory Address Modes.md",
     "Types of Application/Object Oreantated Programming/Intro to OOP - Worksheet 1.pdf",
     "Types of Application",
     "Architecture/Little Man Computer/LMC Booklet.pdf",

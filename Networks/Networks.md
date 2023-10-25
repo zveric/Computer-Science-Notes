@@ -18,11 +18,11 @@
 - Smallest type of network
 - It consists of connected devices that are in close proximity
 - Examples include: Bluetooth
-- ### Local Area Network
+### Local Area Network
 - LANS cover a small geographical area
 - They use connections that are owned by the organisation
 - More secure than a WAN
-- ### Wide Area Network
+### Wide Area Network
 - Covers a large area and connects two or more LANs together
 - LANS are connected to form WANs using different methods These includes:
 	- Fibre Optic Cables

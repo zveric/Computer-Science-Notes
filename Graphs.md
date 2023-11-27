@@ -10,7 +10,7 @@
 	- Route Planning (Sat nav)
 
 ## Weighted Graphs
-- Edgews have weightings
+- Edges have weightings
 
 ## Directed Graph
 - 

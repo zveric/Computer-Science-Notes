@@ -45,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Architecture/Architecture.md",
+                "file": "Data Structure/Graphs.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Architecture/Architecture.md",
+                "file": "Data Structure/Graphs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Architecture/Architecture.md",
+                "file": "Data Structure/Graphs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Architecture/Architecture.md"
+                "file": "Data Structure/Graphs.md"
               }
             }
           },
@@ -192,8 +192,11 @@
   },
   "active": "cb74efb62d03d8b2",
   "lastOpenFiles": [
-    "Data Structure/Graphs.md",
     "Data Structure/Trees.md",
+    "Data Structure/Graphs.md",
+    "Databases/Relational Database.md",
+    "Databases/Database Introduction.md",
+    "Architecture/Architecture.md",
     "Data Structure",
     "Graphs",
     "pages/Lists.md",
@@ -220,9 +223,6 @@
     "Legislation/Computing Related Legislation PPQ.pdf",
     "Legislation/Legistaltion.md",
     "BIOS and Virtual Machines.md",
-    "Algorithm Efficiency.md",
-    "Computational Thinking/Thinking Concurrently.md",
-    "Transaction Processing.md",
     "Analysis Rec.docx",
     "Project/20160514233907_1.jpg",
     "Types of Application/Object Oreantated Programming/Intro to OOP - Worksheet 1.pdf",

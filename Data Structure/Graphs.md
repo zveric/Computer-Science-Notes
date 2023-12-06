@@ -13,4 +13,8 @@
 - Edges have weightings
 
 ## Directed Graph
+
+
+## Traversal
+![[Pasted image 20231130095102.png]]
 - 

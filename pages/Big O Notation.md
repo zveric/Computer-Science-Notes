@@ -1,11 +1,11 @@
 - Big o is a measure of [[Algorithm Efficiency]] showing how efficiency changes when the amount of data inputted increases
 - The number of steps needed to complete the program is known as the complexity
 - Examples of Big O
-	- O(1)
+	- **O(1)**
 		- the function performance is constant and does not depend on N e.g. the _sum of all numbers_ function
-	- O(n)
+	- **O(n)**
 		- the algorithm performance changes linearly with N e.g. the for loop example for adding numbers
-	- O(n!)
+	- **O(n!)**l
 		- the algorithm is extremely sensitive to the input size and it rapidly becomes impractical e.g. using a brute force technique to sort N words in to alphabetical order
 - ## Simplifying Big o
 	- Work out which parts of the program are most dominant.

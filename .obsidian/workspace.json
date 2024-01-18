@@ -4,67 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "cb1cf735aa16dc06",
+        "id": "a1903baa55dac8b7",
         "type": "tabs",
         "children": [
           {
-            "id": "14919715392c3cdd",
+            "id": "092eb24ee2d75fdb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/Lists.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fd8de68b027015eb",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "6a25e7a391432d50",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Merge Sort.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fdc0077c20591506",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Data Structure/Trees.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cb74efb62d03d8b2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "pages/Big O Notation.md",
+                "file": "Data Structure/Path Finding.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -130,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Merge Sort.md",
+                "file": "Data Structure/Path Finding.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Merge Sort.md",
+                "file": "Data Structure/Path Finding.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Merge Sort.md"
+                "file": "Data Structure/Path Finding.md"
               }
             }
           },
@@ -180,7 +135,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -202,16 +159,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6a25e7a391432d50",
+  "active": "092eb24ee2d75fdb",
   "lastOpenFiles": [
+    "Data Structure/Dijkstra.pdf",
+    "Data Structure/Dijkstra.pdf.crdownload",
+    "Data Structure/Graphs.md",
+    "Graphs And Trees",
+    "Data Structure/Trees.md",
+    "Types of Applications.md",
+    "Data Structure/Path Finding.md",
+    "Searching and Sorting",
+    "Searching and Sorting/Merge Sort.md",
     "BIOS and Virtual Machines.md",
-    "Merge Sort.md",
     "pages/Big O Notation.md",
     "Algorithm Efficiency.md",
     "Architecture/Von Neumann Architecture.md",
-    "Data Structure/Graphs.md",
     "Pasted image 20231130095102.png",
-    "Data Structure/Trees.md",
     "Databases/Relational Database.md",
     "Databases/Database Introduction.md",
     "Architecture/Architecture.md",
@@ -232,16 +195,10 @@
     "Types of Application/Object Oreantated Programming/Object Orientated Programming.md",
     "Types of Application/Object Oreantated Programming/Object Orientated.md",
     "pages/Harvard Architecture.md",
-    "pages/Harvard.md",
-    "Architecture/Von Neumann.md",
-    "Memory Management/Memory Management Introduction.md",
     "Legislation/Computing Related Legislation PPQ.pdf",
     "Analysis Rec.docx",
     "Project/20160514233907_1.jpg",
     "Types of Application/Object Oreantated Programming/Intro to OOP - Worksheet 1.pdf",
-    "Types of Application",
-    "Architecture/Little Man Computer/LMC Booklet.pdf",
-    "Attachments/666846-question-paper-computer-systems.pdf",
     "Web Technology/HTML Work/Wallace-and-Gromit-2.jpg",
     "Attachments/Pasted image 20230301124433.png",
     "Attachments/Pasted image 20230301123750.png",

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Structure/Path Finding.md",
+                "file": "Legislation/Legistaltion.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "leg",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Structure/Path Finding.md",
+                "file": "Legislation/Legistaltion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Structure/Path Finding.md",
+                "file": "Legislation/Legistaltion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Structure/Path Finding.md"
+                "file": "Legislation/Legistaltion.md"
               }
             }
           },
@@ -161,13 +162,13 @@
   },
   "active": "092eb24ee2d75fdb",
   "lastOpenFiles": [
+    "Data Structure/Path Finding.md",
     "Data Structure/Dijkstra.pdf",
     "Data Structure/Dijkstra.pdf.crdownload",
     "Data Structure/Graphs.md",
     "Graphs And Trees",
     "Data Structure/Trees.md",
     "Types of Applications.md",
-    "Data Structure/Path Finding.md",
     "Searching and Sorting",
     "Searching and Sorting/Merge Sort.md",
     "BIOS and Virtual Machines.md",
@@ -198,7 +199,6 @@
     "Legislation/Computing Related Legislation PPQ.pdf",
     "Analysis Rec.docx",
     "Project/20160514233907_1.jpg",
-    "Types of Application/Object Oreantated Programming/Intro to OOP - Worksheet 1.pdf",
     "Web Technology/HTML Work/Wallace-and-Gromit-2.jpg",
     "Attachments/Pasted image 20230301124433.png",
     "Attachments/Pasted image 20230301123750.png",
